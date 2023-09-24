@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">IoTControl</string>
+    <string name="add">Add</string>
+    <string name="add_title">Add a device</string>
+    <string name="ip_address">IP address</string>
+    <string name="identifier">Identifier</string>
+    <string name="add_description">Please input the following information about the device you would like to add:</string>
+    <string name="client_error">An error occurred on the client side.</string>
+    <string name="server_error">An error occurred on the server side.</string>
+    <string name="unknown_error">An unknown error occurred.</string>
+    <string name="timeout_error">The network timed out.</string>
+    <string name="connection_error">The specified device is not reachable.</string>
+    <string name="response_interpret_error">Could not interpret the server\'s response</string>
+    <string name="question_remove_device">Should the device \"%1$s\" really be removed?</string>
+    <string name="question_removed_device">Removed \"%1$s\"</string>
+    <string name="restore">Restore</string>
+    <string name="restored">Restored \"%1$s\"</string>
+    <string name="updated">Updated \"%1$s\"</string>
+    <string name="inserted">Added \"%1$s\"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="none">None</string>
+    <string name="details">Details</string>
+    <string name="type">Type</string>
+    <string name="last_measurement">Last measurement</string>
+    <string name="na">Not available</string>
+    <string name="close">Close</string>
+    <string name="unknown">Unknown</string>
+    <string name="test_sensor">Test sensor</string>
+    <string name="light_sensor">Light sensor</string>
+    <string name="loudness_sensor">Loudness sensor</string>
+    <string name="humidity_sensor">Humidity</string>
+    <string name="temp_sensor">Temperature sensor</string>
+    <string name="security">Security</string>
+    <string name="update">Update</string>
+    <string name="measurements">Measurements</string>
+    <string name="measurement_temperature">%1$.2f °C</string>
+    <string name="measurement_analog">%1$.2f (analog value)</string>
+    <string name="measurement_humidity">%1$.2f RH</string>
+    <string name="measurement_type_unknown">%1$.2f (unknown type)</string>
+    <string name="requesting">Requesting…</string>
+
+    <string name="settings">Settings</string>
+    <string name="information">Information</string>
+
+    <string name="current_time">Current device time</string>
+    <string name="set_time">Update current time</string>
+    <string name="updated_time">Updated device\'s time</string>
+</resources>
